@@ -1,0 +1,10 @@
+C:\ASP.NET\Test\TestDatabase\bin\Debug\TestDatabase.dacpac
+C:\ASP.NET\Test\TestDatabase\bin\Debug\TestDatabase.dll
+C:\ASP.NET\Test\TestDatabase\bin\Debug\TestDatabase.pdb
+C:\ASP.NET\Test\TestDatabase\obj\Debug\TestDatabase.sqlproj.AssemblyReference.cache
+C:\ASP.NET\Test\TestDatabase\obj\Debug\Model.xml
+C:\ASP.NET\Test\TestDatabase\obj\Debug\refactor.xml
+C:\ASP.NET\Test\TestDatabase\obj\Debug\postdeploy.sql
+C:\ASP.NET\Test\TestDatabase\obj\Debug\predeploy.sql
+C:\ASP.NET\Test\TestDatabase\obj\Debug\TestDatabase.dll
+C:\ASP.NET\Test\TestDatabase\obj\Debug\TestDatabase.pdb

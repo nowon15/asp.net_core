@@ -1,0 +1,6 @@
+C:\ASP.NET\Test\TestDatabase\bin\Debug\TestDatabase.database.dacpac
+C:\ASP.NET\Test\TestDatabase\bin\Debug\TestDatabase.dll
+C:\ASP.NET\Test\TestDatabase\bin\Debug\TestDatabase.pdb
+C:\ASP.NET\Test\TestDatabase\obj\Debug\TestDatabase.database.sqlproj.AssemblyReference.cache
+C:\ASP.NET\Test\TestDatabase\obj\Debug\TestDatabase.dll
+C:\ASP.NET\Test\TestDatabase\obj\Debug\TestDatabase.pdb
